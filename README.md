@@ -33,7 +33,7 @@
 
 ## 🌟 Featured Projects
 
-### 📱 OMA (Order Management App)
+### 📱 [OMA-Order-Management-App](https://github.com/AryanXPatel/OMA-Order-Management-App)
 A cross-platform order management system built with **React Native** for both Android and Web, designed to streamline business operations.
 
 - **Technologies:** React Native, Node.js, Google Sheets API
