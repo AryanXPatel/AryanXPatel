@@ -20,6 +20,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I'm currently working on **InboxRay - An AI-Powered Inbox Management App**
+- It will help achieve Inbox Zero and Clear Clutter from Inbox
+- It will work with OpenAI API 
 - 🌱 I'm currently learning **Data Structures & Algorithms and Java**
 - 👯 I'm looking to collaborate on **Open Source Projects & Innovative Web Solutions**
 - 🤔 I'm looking for help with **DSA Problem Solving and Java Development**
