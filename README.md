@@ -25,7 +25,6 @@
 - 🤔 I'm looking for help with **DSA Problem Solving and Java Development**
 - 💬 Ask me about **React, TypeScript, Node.js, and Full Stack Development**
 - 📫 How to reach me: **offaryanpatel@gmail.com**
-- ⚡ Fun fact: **I'm building an AI that can achieve Inbox Zero automatically! 📧🤖**
 
 ---
 
